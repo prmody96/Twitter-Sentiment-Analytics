@@ -22,3 +22,6 @@ Steps to run :
       ```$SPARK_HOME/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.0 twitterStream.py```
       
 OUTPUT : 
+
+![alt text](https://github.com/prmody96/Twitter-Sentiment-Analytics/twitter_git.png)
+      
