@@ -5,7 +5,9 @@ In this project, I learned about processing live data streams using Spark’s st
 
 Steps to run :
 
-1) Download the 16M.txt.zip file, positive.txt, negative.txt
+1) Download the 16M.txt.zip file from the following link :
+
+      ```https://drive.google.com/open?id=1k5tP7-6lrDIyGaOzvN4_288vN40Yut37```
 2) Unzip it
 3) Start Zookeeper Service 
       ```$KAFKA_HOME/bin/zookeeper-server-start.sh $KAFKA_HOME/config/zookeeper.properties```
