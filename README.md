@@ -23,5 +23,5 @@ Steps to run :
       
 OUTPUT : 
 
-![alt text](https://github.com/prmody96/Twitter-Sentiment-Analytics/twitter_git.png)
+![alt text](https://github.com/prmody96/Twitter-Sentiment-Analytics/blob/master/twitter_git.png)
       
